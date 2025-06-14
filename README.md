@@ -21,7 +21,7 @@ JavaScript
 
 🚀 Live Demo
 
-🔗 [View Live]
+🔗 [View Live] https://tishajoshi.github.io/SCT_WD_1/
 
 📂 How to Run
 Clone or download the repository.
